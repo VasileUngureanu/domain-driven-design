@@ -29,6 +29,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Domain-Driven Design to the rescue](https://rachelcarmena.github.io/2019/06/24/ddd-to-the-rescue.html)
 * [Михаил Емельянов — DDD в мобильной разработке](https://www.youtube.com/watch?v=6MUn23Kdg5k)
 * [Domain Driven Design for Android Developers](https://hackernoon.com/domain-driven-design-for-android-developers-bb1fbf544b9c)
+* [Modular Monolith with DDD](https://github.com/kgrzybek/modular-monolith-with-ddd)
 
 ## Usage
 
